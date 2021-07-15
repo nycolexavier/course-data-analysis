@@ -1,18 +1,16 @@
 ![courseDataAnalysis](https://user-images.githubusercontent.com/74930052/125856282-e0c00f6f-9336-43ac-9db4-c44141f059fe.png)
 
-<h1 align="center">Curso de Análise de Dados com Python</h1>
+---
+<img src="https://img.shields.io/static/v1?label=Status&message=Finish&color=32cd32&style=for-the-badge&logo=ghost"/>
 
 <p align="center">Esse curso aconteceu entre os dias 19/06/21 até 10/07/21. </p>
 
-<img src="https://img.shields.io/static/v1?label=Status&message=Finish&color=32cd32&style=for-the-badge&logo=ghost"/>
-
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
+ <a href="#features">Features</a> • 
+ <a href="#tecnologias">Tecnologias</a> •
  <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#autora">Autora</a>
 </p>
 
 
@@ -23,15 +21,13 @@
 - [x] Aula 03
 - [x] Aula 04
 
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/downloads/)
+- [Anaconda](https://www.anaconda.com/products/individual)
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true)
 
 ### Autora
 ---
@@ -45,5 +41,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito com ❤️ por Nycole Xavier 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-NycoleXavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nycole-xavier-641271202/)](https://www.linkedin.com/in/nycole-xavier-641271202/) 
-
-<a href="#autor"> Contribuicao </a>
