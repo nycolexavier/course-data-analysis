@@ -9,7 +9,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#features">Features</a> • 
  <a href="#tecnologias">Tecnologias</a> •
- <a href="#licenc-a">Licença</a> • 
+ <a href="#licença">Licença</a> • 
  <a href="#autora">Autora</a>
 </p>
 
@@ -28,6 +28,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Python](https://www.python.org/downloads/)
 - [Anaconda](https://www.anaconda.com/products/individual)
 - [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true)
+
+### Licença
+
+MIT License ©
 
 ### Autora
 ---
