@@ -13,13 +13,15 @@
  <a href="#autora">Autora</a>
 </p>
 
+### Objetivo
+Nesse repositório guardo todas as anotações, materiais e projetos que foram realizados no curso. 
 
 ### Features
 
 - [x] Aula 01
 - [x] Aula 02
 - [x] Aula 03
-- [x] Aula 04
+- [x] Aula 04 🎉
 
 ### Tecnologias
 
